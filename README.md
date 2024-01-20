@@ -1,0 +1,1 @@
+# case-parcerias-estrategicas-isaa
