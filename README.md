@@ -69,5 +69,4 @@ Essa análise permitiu extrair e comunicar visualmente os principais insights do
 
 ## Autor
 
-Este caso foi desenvolvido por João Paula como parte de um processo seletivo. Sinta-se à vontade para utilizar este conteúdo e enviar feedback.
-```
+Este caso foi desenvolvido por João Paula como parte de um processo. Sinta-se à vontade para utilizar este conteúdo e enviar feedback.
